@@ -1,4 +1,3 @@
 Iron hacker
-Touch data.txt
-code .
-idk I just work here. 
+This is just practice
+Favorite color: green.
